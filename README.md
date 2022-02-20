@@ -23,15 +23,18 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Full GIF (this GIF may not show on README because it's quite heavy)
+Full GIF (this GIF may not show on README because it's quite heavy):
+
 <img src='http://g.recordit.co/h7qCKv6n8B.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Smaller GIFs:
-<img src='http://g.recordit.co/bGDpZJuqZo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Smaller GIFs:  
+
+<img src='http://g.recordit.co/bGDpZJuqZo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
 <img src='http://g.recordit.co/lgDHRs4ifa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Note:
-- If I restart the app, it crashes - it just won't show any tweets at all, like in the GIF below:
+- The simulator crashes so many times - it just won't show any tweets at all, like in the GIF below:
 <img src='http://g.recordit.co/Y3wPH8QzcH.gif' title='Crash' width='' alt='Crash' />
+This is the first time this happens to me. I wonder if it's because this Twitter app I'm building is heavier than Flix and Yelp, or if there's some other reason...
 Restarting XCode and Simulator sometimes work, but not always. Restarting the whole laptop works, but just after running the simulator for a while tho problem occurs again.
 
